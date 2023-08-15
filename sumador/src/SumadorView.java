@@ -171,7 +171,7 @@ public class SumadorView extends javax.swing.JFrame {
             
              JOptionPane.showMessageDialog(this,"Usted no Ingreso un N° entero");
               jtn1.setText("");
-              .jtn2.setText("");
+              jtn2.setText("");
              
         }
     }//GEN-LAST:event_jbsumarActionPerformed
